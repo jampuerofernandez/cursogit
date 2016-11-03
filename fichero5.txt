@@ -1,0 +1,2 @@
+fichero 5 commit uncommit control
+prueba para git diff
